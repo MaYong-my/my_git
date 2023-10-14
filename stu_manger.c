@@ -452,3 +452,6 @@ STU *loadStuInfo(STU *h)//h为头指针
     fclose(fp);
     return h;
 }
+
+
+//ljx nb
